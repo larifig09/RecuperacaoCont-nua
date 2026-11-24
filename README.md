@@ -1,0 +1,1 @@
+Trabalho para compensar a minha falta de capacidade de ajudar meu grupo no Frontend do trabalho final, conversei com o Professor Luiz e ele disse que minha nota seria menor que meu grupo, mas era para eu enviar esse frontend.
